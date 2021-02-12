@@ -2,6 +2,7 @@
 # Date: 31 Jan 2021
 # Graphic Simulation of Spike Protein on the surface of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2),
 # the virus and its variants causing 2 million deaths globally, attributed to the COVID-19 disease.
+# (Colorful protein spike)
 
 # Use Random, Turtle
 import random
